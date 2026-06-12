@@ -18,11 +18,6 @@ A lightweight TCP port scanner written in Bash that allows you to quickly identi
 - "timeout" utility
 - Network access to the target host
 
-🚀 Installation
-
-git clone https://github.com/yourusername/network-port-scanner.git
-cd network-port-scanner
-chmod +x portscan.sh
 
 💻 Usage
 
